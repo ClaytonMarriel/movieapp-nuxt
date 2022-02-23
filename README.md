@@ -8,6 +8,12 @@
 </h1>
 
 
+
+https://user-images.githubusercontent.com/50889610/155327051-86571a01-dc38-4b1a-903a-9d18c56b367b.mp4
+
+
+
+
 ## Consumed API: themoviedb.org. You need to register an account so that you have access to the api key to be able to consume it
 ## Website styling, scss was used
 ## Fetch Hook
